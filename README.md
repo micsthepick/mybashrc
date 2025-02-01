@@ -1,0 +1,2 @@
+# mybashrc
+bashrc additions
